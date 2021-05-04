@@ -9,8 +9,7 @@
 <p>Gunakan basic Laravel resource controllers dengan default methods – index, create, store dll.</p></br>
 <p>Gunakan fungsi Laravel’s validation, menggunakan Request classes</p></br>
 <p>Gunakan Laravel’s pagination untuk menampilkan Companies/Employees list, 10 entries per halaman.</p></br>
-<p>Gunakan Laravel make:auth sebagai default Bootstrap-based design theme, dan buat user tidak bisa melakukan pendaftaran.</p></br>
+<p>Gunakan Laravel make:auth sebagai default Bootstrap-based design theme, dan buat user tidak bisa melakukan pendaftaran.</p></br></br></br>
 
-
---Tes Programmer-- 
--SYNCORE INDONESIA-
+# SYNCORE INDONESIA (Tes Programmer)
+# Febrian Fitrialdo
